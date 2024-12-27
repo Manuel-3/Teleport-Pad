@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.manuel_3.teleportpad.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+      "ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

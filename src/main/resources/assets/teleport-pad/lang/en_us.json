@@ -1,0 +1,9 @@
+{
+  "item.teleport-pad.teleport_pad_configurator": "Teleport Pad Configurator",
+  "block.teleport-pad.teleport_pad": "Teleport Pad",
+  "tooltip.teleport-pad.teleport_pad_configurator_save": "Shift-Right-Click to save position",
+  "tooltip.teleport-pad.teleport_pad_configurator_set": "Right-Click to set position",
+  "tooltip.teleport-pad.collapsed": "Hold shift for details",
+  "chat.teleport-pad.storing": "Storing",
+  "chat.teleport-pad.setting": "Setting"
+}

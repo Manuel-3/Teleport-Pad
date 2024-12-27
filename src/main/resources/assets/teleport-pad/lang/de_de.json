@@ -1,0 +1,9 @@
+{
+  "item.teleport-pad.teleport_pad_configurator": "Teleport Pad Konfigurator",
+  "block.teleport-pad.teleport_pad": "Teleport Pad",
+  "tooltip.teleport-pad.teleport_pad_configurator_save": "Umschalt-Rechts-Klick um Position zu speichern",
+  "tooltip.teleport-pad.teleport_pad_configurator_set": "Rechts-Klick um Position zu setzen",
+  "tooltip.teleport-pad.collapsed": "Umschalt-Taste für mehr Details",
+  "chat.teleport-pad.storing": "Speichere",
+  "chat.teleport-pad.setting": "Setze"
+}

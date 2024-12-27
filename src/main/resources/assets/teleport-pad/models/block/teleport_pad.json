@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "teleport-pad:block/teleport_pad"
+  }
+}

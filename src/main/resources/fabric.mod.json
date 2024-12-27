@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "teleport-pad",
+	"version": "${version}",
+	"name": "Teleport Pad",
+	"description": "Adds teleport pads that can move players and entities",
+	"authors": [
+		"Manuel-3"
+	],
+	"contact": {
+		"homepage": "https://github.com/Manuel-3",
+		"sources": "https://github.com/Manuel-3/Teleport-Pad"
+	},
+	"license": "MIT",
+	"icon": "assets/teleport-pad/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.manuel_3.teleportpad.TeleportPad"
+		],
+		"fabric-datagen": [
+          "com.manuel_3.teleportpad.TeleportPadDataGenerator"
+		],
+		"client": [
+          "com.manuel_3.teleportpad.TeleportPadClient"
+		]
+	},
+	"mixins": [
+		"teleport-pad.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

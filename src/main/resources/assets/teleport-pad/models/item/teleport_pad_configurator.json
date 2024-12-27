@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "teleport-pad:item/teleport_pad_configurator"
+  }
+}

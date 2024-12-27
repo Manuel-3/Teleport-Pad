@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "teleport-pad:block/teleport_pad"
+    }
+  }
+}
